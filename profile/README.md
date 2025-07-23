@@ -35,7 +35,7 @@ More utilities will land here soon – watch this space!
 * **Fast support** – Ping us on Discord and hear back before your coffee cools.
 
 
-> *“We got tired of hosts hawking yesterday’s hardware, so we built our own stack—hardware, software, and attitude included.”*
+> *We got tired of hosts using yesterday’s hardware, so we built our own stack—hardware, software, and attitude included.*
 
 
 ## Let’s chat
