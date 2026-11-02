@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/onesrv.net-3451F6?style=for-the-badge&logoColor=white)](https://onesrv.net)
 [![Contour](https://img.shields.io/badge/Contour-team%20wiki-0b1222?style=for-the-badge)](https://contourdocs.com)
-[![Discord](https://img.shields.io/badge/Discord-community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RjRA4FFxST)
 
 </div>
 
