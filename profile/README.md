@@ -63,10 +63,10 @@ Rack units with symmetric uplinks, DDoS protection, IPv4/IPv6 and remote hands �
 
 We build on open source every day and share what we can.
 
-- **Contour** – source-available release coming with the public launch. ⭐ Watch this space.
+- **Contour** – source-available release coming soon.
 
 ## Say hi
 
 💬 [Discord](https://discord.gg/RjRA4FFxST) · 🌐 [onesrv.net](https://onesrv.net)
 
-<sub>Also from us: <a href="https://hypeserv.com">HypeSrv</a> – game-server hosting on fast Ryzen hardware.</sub>
+<sub>Also from us: <a href="https://hypeserv.com">HypeServ</a> – game-server hosting on ultra-fast Ryzen hardware.</sub>
